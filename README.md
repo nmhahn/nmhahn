@@ -9,6 +9,9 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="nmhahn-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rstudio/rstudio-original.svg">
   <img align="center" alt="nmhahn-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="nmhahn-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="nmhahn-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="nmhahn-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
   
 </div>
   
